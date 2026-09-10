@@ -2,6 +2,11 @@
 
 Bag of Words Matrix Construction & Document Search Engine
 
+**Name:** Ayesha Noor  
+**Roll Number:** 2K24-AI-17
+**Course:** Natural Language Processing  
+**Lab:** Lab 04
+
 ### Introduction
 
 This lab assignment demonstrates two basic Natural Language Processing (NLP) techniques using Python and Scikit-learn:
